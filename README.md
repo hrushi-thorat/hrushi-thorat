@@ -17,6 +17,7 @@
 - 📫 How to reach me **hrushikeshst54@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+- ![](https://komarev.com/ghpvc/?username=hrushi-thorat&label=PROFILE+VIEWS)
 
 
 ## 🚀 Languages and Tools:
