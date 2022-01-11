@@ -17,6 +17,7 @@
 - 📫 How to reach me **hrushikeshst54@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+- ![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
 
 ## 🚀 Languages and Tools:
 
