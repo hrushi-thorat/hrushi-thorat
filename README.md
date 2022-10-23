@@ -65,7 +65,6 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/hrushikesh-thorat-23363b1b2/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/hrushikesh_thorat1/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
