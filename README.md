@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://hrushikesh-thorat.herokuapp.com/)**
-
 - 📫 How to reach me **hrushikeshst54@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
@@ -41,7 +39,7 @@
 
 <p align="center">
     <a href="https://github.com/hrushi-thorat/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hrushi thorat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushi-thorat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hrushi thorat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushi-thorat&theme=vue-dark&hide_border=true&border_radius=5.3"/>
     </a>
 </p>
 
@@ -62,10 +60,4 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.instagram.com/hrushikesh_thorat1/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
 
